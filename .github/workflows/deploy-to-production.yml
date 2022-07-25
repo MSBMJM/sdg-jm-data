@@ -46,11 +46,15 @@ jobs:
     - name: Build data
       run: |
         python scripts/build_data.py
+    - name: Install SSH Client
+      uses: webfactory/ssh-agent@v0.4.1
+      with:
+         ssh-private-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHbOPesqwedS20Dik0NZ5yuBs9qIIQi8xsJytSHXfx87 omarpeart100@gmail.com
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
         REPOSITORY_NAME: MSBMJM/sdg-production-data
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        SSH: true
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
