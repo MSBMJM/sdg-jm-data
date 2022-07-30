@@ -2233,8 +2233,6 @@
                 "Rural Areas",
                 "GKMA",
                 "Other Urban Centre",
-                "KMA",
-                "Other Towns",
                 ""
               ]
             },
@@ -3561,7 +3559,6 @@
                 "Ministry of Education Youth and Information",
                 "Ministry of Health and Wellness",
                 "Ministry of Labour and Social Security",
-                "Ministry of  Labour and Social Secutity",
                 "Ministry of Health",
                 ""
               ]
@@ -4450,8 +4447,6 @@
                 "GKMA",
                 "Other Urban centre",
                 "Rural Area",
-                "KMA",
-                "Other Towns",
                 ""
               ]
             },
@@ -5133,55 +5128,6 @@
       "title": "Ratio of land consumption rate to population growth rate"
     },
     {
-      "path": "5-5-1/data.csv",
-      "name": "5-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Año"
-          },
-          {
-            "name": "House of Parliament",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Upper House",
-                "Lower House",
-                ""
-              ]
-            },
-            "title": "House of Parliament"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                "Total Number of Seats",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
-    },
-    {
       "path": "16-3-2/data.csv",
       "name": "16-3-2",
       "profile": "tabular-data-resource",
@@ -5416,9 +5362,7 @@
                 "Jamaica",
                 "Rural Areas",
                 "GKMA",
-                "Other Urban cenntre",
-                "KMA",
-                "Other Towns",
+                "Other Urban centre",
                 ""
               ]
             },
@@ -6058,6 +6002,55 @@
         ]
       },
       "title": "Proportion of domestic budget funded by domestic taxes"
+    },
+    {
+      "path": "5-5-1/data.csv",
+      "name": "5-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "House of Parliament",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Upper House",
+                "Lower House",
+                ""
+              ]
+            },
+            "title": "House of Parliament"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                "Total Number of Seats",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
     },
     {
       "path": "17-19-2/data.csv",
