@@ -43,14 +43,14 @@ Year,Type of Toilet Facility,Geographical Region,Value
 2015,Water Closet Not Linked to Sewer,Jamaica,57.3
 2015,Pit Laterine,Jamaica,21.9
 2015,Other,Jamaica,0.0
-2015,Water Closet Linked to Sewer,KMA,55.4
-2015,Water Closet Not Linked to Sewer,KMA,38.3
-2015,Pit Laterine,KMA,6.3
-2015,Other,KMA,0.0
-2015,Water Closet Linked to Sewer,Other Towns,7.9
-2015,Water Closet Not Linked to Sewer,Other Towns,76.2
-2015,Pit Laterine,Other Towns,15.9
-2015,Other,Other Towns,0.0
+2015,Water Closet Linked to Sewer,GKMA,55.4
+2015,Water Closet Not Linked to Sewer,GKMA,38.3
+2015,Pit Laterine,GKMA,6.3
+2015,Other,GKMA,0.0
+2015,Water Closet Linked to Sewer,Other Urban Centre,7.9
+2015,Water Closet Not Linked to Sewer,Other Urban Centre,76.2
+2015,Pit Laterine,Other Urban Centre,15.9
+2015,Other,Other Urban Centre,0.0
 2015,Water Closet Linked to Sewer,Rural Area,2.5
 2015,Water Closet Not Linked to Sewer,Rural Area,61.9
 2015,Pit Laterine,Rural Area,34.9
@@ -59,14 +59,14 @@ Year,Type of Toilet Facility,Geographical Region,Value
 2016,Water Closet Not Linked to Sewer,Jamaica,60.4
 2016,Pit Laterine,Jamaica,17.3
 2016,Other,Jamaica,0.1
-2016,Water Closet Linked to Sewer,KMA,56.0
-2016,Water Closet Not Linked to Sewer,KMA,37.2
-2016,Pit Laterine,KMA,6.8
-2016,Other,KMA,0.0
-2016,Water Closet Linked to Sewer,Other Towns,13.4
-2016,Water Closet Not Linked to Sewer,Other Towns,70.6
-2016,Pit Laterine,Other Towns,15.9
-2016,Other,Other Towns,0.1
+2016,Water Closet Linked to Sewer,GKMA,56.0
+2016,Water Closet Not Linked to Sewer,GKMA,37.2
+2016,Pit Laterine,GKMA,6.8
+2016,Other,GKMA,0.0
+2016,Water Closet Linked to Sewer,Other Urban Centre,13.4
+2016,Water Closet Not Linked to Sewer,Other Urban Centre,70.6
+2016,Pit Laterine,Other Urban Centre,15.9
+2016,Other,Other Urban Centre,0.1
 2016,Water Closet Linked to Sewer,Rural Area,5.5
 2016,Water Closet Not Linked to Sewer,Rural Area,69.8
 2016,Pit Laterine,Rural Area,24.5
@@ -76,18 +76,18 @@ Year,Type of Toilet Facility,Geographical Region,Value
 2017,Water Closet Linked to Onsite Disposal System,Jamaica,56.1
 2017,Pit Latrine,Jamaica,18.0
 2017,Other,Jamaica,0.2
-2017,Water Closet Linked to Central Sewer Network,KMA,47.9
-2017,Water Closet Linked to Offsite Disposal System,KMA,5.5
-2017,Water Closet Linked to Onsite Disposal System,KMA,40.8
-2017,Pit Latrine,KMA,5.6
-2017,Other,KMA,0.2
-2017,Water Closet Linked to Central Sewer Network,Other Towns,10.2
-2017,Water Closet Linked to Offsite Disposal System,Other Towns,8.8
-2017,Water Closet Linked to Onsite Disposal System,Other Towns,55.9
-2017,Pit Latrine,Other Towns,13.5
-2017,Other,Other Towns,0.3
-2017,Water Closet Linked to Central Sewer Network,Rural Areas,5.7
-2017,Water Closet Linked to Offsite Disposal System,Rural Areas,6.3
-2017,Water Closet Linked to Onsite Disposal System,Rural Areas,63.0
-2017,Pit Latrine,Rural Areas,25.0
-2017,Other,Rural Areas,0.1
+2017,Water Closet Linked to Central Sewer Network,GKMA,47.9
+2017,Water Closet Linked to Offsite Disposal System,GKMA,5.5
+2017,Water Closet Linked to Onsite Disposal System,GKMA,40.8
+2017,Pit Latrine,GKMA,5.6
+2017,Other,GKMA,0.2
+2017,Water Closet Linked to Central Sewer Network,Other Urban Centre,10.2
+2017,Water Closet Linked to Offsite Disposal System,Other Urban Centre,8.8
+2017,Water Closet Linked to Onsite Disposal System,Other Urban Centre,55.9
+2017,Pit Latrine,Other Urban Centre,13.5
+2017,Other,Other Urban Centre,0.3
+2017,Water Closet Linked to Central Sewer Network,Rural Area,5.7
+2017,Water Closet Linked to Offsite Disposal System,Rural Area,6.3
+2017,Water Closet Linked to Onsite Disposal System,Rural Area,63.0
+2017,Pit Latrine,Rural Area,25.0
+2017,Other,Rural Area,0.1

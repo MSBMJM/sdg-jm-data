@@ -15,18 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Type of hazardous waste",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Used Lead Acid Battery exported",
-                "E-waste exported",
-                "Paint Related Waste exported",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Unit",
             "type": "string",
             "constraints": {
@@ -42,6 +30,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Used Lead Acid Battery exported",
+                "E-waste exported",
+                "Paint Related Waste exported",
                 "Total E-waste generated",
                 "Amount going to large equipment",
                 "Screens monitors and equipment containing screens (..)",
