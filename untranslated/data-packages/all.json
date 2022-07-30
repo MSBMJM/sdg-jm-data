@@ -547,17 +547,6 @@
             }
           },
           {
-            "name": "value",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "6.82",
-                "37.29",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

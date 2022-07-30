@@ -39,18 +39,6 @@
             "title": "Unit"
           },
           {
-            "name": "value",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "6.82",
-                "37.29",
-                ""
-              ]
-            },
-            "title": "value"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
