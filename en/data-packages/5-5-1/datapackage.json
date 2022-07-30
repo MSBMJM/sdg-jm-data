@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "House of Parliament",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Upper House",
+                "Lower House",
+                ""
+              ]
+            },
+            "title": "House of Parliament"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                "Total Number of Seats",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
