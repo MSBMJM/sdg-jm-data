@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Tax Revenue",
                 "Proportion of Central Government Revenue to GDP",
                 "Central Government Expenditure",
-                "Tax Revenue",
                 "% Tax Revenue/ Cenral Government Expenditure",
                 "Jamaica's share of global exports of goods and services",
                 ""
@@ -35,9 +35,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(%)",
                 "(J$ Million)",
-                "87.0",
+                "(%)",
                 ""
               ]
             },

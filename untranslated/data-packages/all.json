@@ -899,8 +899,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Central Government Revenue and Grants",
                 "Fiscal Year GDP",
+                "Central Government Revenue and Grants",
                 "Proportion of Central Government Revenue to GDP",
                 ""
               ]
@@ -949,11 +949,11 @@
                 "Wind",
                 "Coal",
                 "Bagasse",
-                "Natural Gas",
-                "Solar",
                 "Total Alternative Energy",
                 "Total",
                 "% Renewable Share",
+                "Natural Gas",
+                "Solar",
                 "Fuelwood",
                 ""
               ]
@@ -964,8 +964,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "('000 boe)",
+                "('000boe)",
                 "per cent",
+                "('000 boe)",
                 ""
               ]
             }
@@ -5355,9 +5356,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Tax Revenue",
                 "Proportion of Central Government Revenue to GDP",
                 "Central Government Expenditure",
-                "Tax Revenue",
                 "% Tax Revenue/ Cenral Government Expenditure",
                 "Jamaica's share of global exports of goods and services",
                 ""
@@ -5369,9 +5370,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(%)",
                 "(J$ Million)",
-                "87.0",
+                "(%)",
                 ""
               ]
             }
@@ -5405,6 +5405,8 @@
               "enum": [
                 "Upper House",
                 "Lower House",
+                "Mayors",
+                "Councillors",
                 ""
               ]
             }
@@ -5417,6 +5419,7 @@
                 "Female",
                 "Male",
                 "Total Number of Seats",
+                "Females",
                 ""
               ]
             }
@@ -5517,14 +5520,14 @@
             "constraints": {
               "enum": [
                 "Early Childhood (0-8)",
-                "Children (0-17)",
+                "Children (0--17)",
                 "Adolescents (10-19)",
-                "Youth( 15-24)",
+                "Youth(15-24)",
                 "Young Adults (25-34)",
                 "Prime Working Age (35-59)",
                 "Elderly (60+)",
-                "Children (0--17)",
-                "Youth(15-24)",
+                "Children (0-17)",
+                "Youth( 15-24)",
                 ""
               ]
             }

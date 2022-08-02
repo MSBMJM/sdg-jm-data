@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Central Government Revenue and Grants",
                 "Fiscal Year GDP",
+                "Central Government Revenue and Grants",
                 "Proportion of Central Government Revenue to GDP",
                 ""
               ]

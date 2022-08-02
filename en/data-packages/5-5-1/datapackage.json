@@ -22,6 +22,8 @@
               "enum": [
                 "Upper House",
                 "Lower House",
+                "Mayors",
+                "Councillors",
                 ""
               ]
             },
@@ -35,6 +37,7 @@
                 "Female",
                 "Male",
                 "Total Number of Seats",
+                "Females",
                 ""
               ]
             },

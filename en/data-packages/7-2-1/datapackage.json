@@ -25,11 +25,11 @@
                 "Wind",
                 "Coal",
                 "Bagasse",
-                "Natural Gas",
-                "Solar",
                 "Total Alternative Energy",
                 "Total",
                 "% Renewable Share",
+                "Natural Gas",
+                "Solar",
                 "Fuelwood",
                 ""
               ]
@@ -41,8 +41,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "('000 boe)",
+                "('000boe)",
                 "per cent",
+                "('000 boe)",
                 ""
               ]
             },
