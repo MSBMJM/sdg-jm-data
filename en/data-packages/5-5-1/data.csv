@@ -29,18 +29,18 @@ Year,House of Parliament,Sex,Value
 2015,Lower House,Total Number of Seats,63.0
 2016,Lower House,Total Number of Seats,63.0
 2018,Lower House,Total Number of Seats,63.0
-1998,Mayors,Females,7.1
-2003,Mayors,Females,7.1
-2007,Mayors,Females,7.1
-2012,Mayors,Females,28.6
-2016,Mayors,Females,0.0
-2019,Mayors,Females,0.0
-1998,Councillors,Females,26.9
-2003,Councillors,Females,16.7
-2007,Councillors,Females,18.0
-2012,Councillors,Females,19.3
-2016,Councillors,Females,19.3
-2019,Councillors,Females,19.3
+1998,Mayors,Female,7.1
+2003,Mayors,Female,7.1
+2007,Mayors,Female,7.1
+2012,Mayors,Female,28.6
+2016,Mayors,Female,0.0
+2019,Mayors,Female,0.0
+1998,Councillors,Female,26.9
+2003,Councillors,Female,16.7
+2007,Councillors,Female,18.0
+2012,Councillors,Female,19.3
+2016,Councillors,Female,19.3
+2019,Councillors,Female,19.3
 2020,Upper House,Female,38.1
 2020,Upper House,Male,61.9
 2020,Upper House,Total Number of Seats,21.0
