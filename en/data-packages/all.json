@@ -5905,7 +5905,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Last Census",
                 "Registration of Births",
                 "Registration of Deaths",
                 ""
