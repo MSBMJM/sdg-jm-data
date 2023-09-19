@@ -1,4 +1,4 @@
-Year,Source of Primary Energy Supply,Unit,Value
+year,source of primary energy supply,unit,value
 2011,Petroleum,('000boe),19807.0
 2011,Hydropower,('000boe),94.0
 2011,Wind,('000boe),57.0
@@ -184,3 +184,103 @@ Year,Source of Primary Energy Supply,Unit,Value
 2018,Total Alternative Energy,('000 boe),1577.0
 2018,Total,('000 boe),20638.0
 2018,% Renewable Share,('000 boe),7.6
+2011,Petroleum,('000 boe),19807
+2011,Hydropower,('000 boe),94
+2011,Wind,('000 boe),57
+2011,Coal,('000 boe),327
+2011,Bagasse,('000 boe),579
+2011,Total Alternative Energy,('000 boe),1057
+2011,Total,('000 boe),20864
+2011,Per cent Renewable Share,(%),5.1
+2012,Petroleum,('000 boe),19280
+2012,Hydropower,('000 boe),93
+2012,Wind,('000 boe),67
+2012,Coal,('000 boe),284
+2012,Bagasse,('000 boe),570
+2012,Total Alternative Energy,('000 boe),1014
+2012,Total,('000 boe),20294
+2012,Per cent Renewable Share,(%),5.0
+2013,Petroleum,('000 boe),19183
+2013,Hydropower,('000 boe),77
+2013,Wind,('000 boe),71
+2013,Coal,('000 boe),450
+2013,Bagasse,('000 boe),626
+2013,Total Alternative Energy,('000 boe),1224
+2013,Total,('000 boe),20407
+2013,Per cent Renewable Share,(%),6.0
+2014,Petroleum,('000 boe),18645
+2014,Hydropower,('000 boe),84
+2014,Wind,('000 boe),74
+2014,Coal,('000 boe),574
+2014,Bagasse,('000 boe),677
+2014,Total Alternative Energy,('000 boe),1409
+2014,Total,('000 boe),20054
+2014,Per cent Renewable Share,(%),7.0
+2015,Petroleum,('000 boe),19079
+2015,Hydropower,('000 boe),80
+2015,Wind,('000 boe),78
+2015,Coal,('000 boe),511
+2015,Bagasse,('000 boe),621
+2015,Total Alternative Energy,('000 boe),1290
+2015,Total,('000 boe),20369
+2015,Per cent Renewable Share,(%),6.3
+2016,Petroleum,('000 boe),19316
+2016,Hydropower,('000 boe),74
+2016,Wind,('000 boe),118
+2016,Coal,('000 boe),491
+2016,Bagasse,('000 boe),487
+2016,Natural Gas,('000 boe),0
+2016,Solar,('000 boe),8
+2016,Total Alternative Energy,('000 boe),1178
+2016,Total,('000 boe),20486
+2016,Per cent Renewable Share,(%),5.7
+2017,Petroleum,('000 boe),18546
+2017,Hydropower,('000 boe),96
+2017,Wind,('000 boe),179
+2017,Coal,('000 boe),425
+2017,Bagasse,('000 boe),334
+2017,Natural Gas,('000 boe),508
+2017,Solar,('000 boe),27
+2017,Total Alternative Energy,('000 boe),1569
+2017,Total,('000 boe),20115
+2017, Per cent Renewable Share,(%),7.8
+2018,Petroleum,('000 boe),19986
+2018,Hydropower,('000 boe),111
+2018,Wind,('000 boe),187
+2018,Coal,('000 boe),398
+2018,Bagasse,('000 boe),265
+2018,Natural Gas,('000 boe),587
+2018,Solar,('000 boe),28
+2018,Total Alternative Energy,('000 boe),1577
+2018,Total,('000 boe),21563
+2018,Per cent Renewable Share,(%),7.3
+2019,Petroleum,('000 boe),20740
+2019,Hydropower,('000 boe),96
+2019,Wind,('000 boe),169
+2019,Coal,('000 boe),427
+2019,Bagasse,('000 boe),325
+2019,Natural Gas,('000 boe),713
+2019,Solar,('000 boe),56
+2019,Total Alternative Energy,('000 boe),1785
+2019,Total,('000 boe),22525
+2019,Per cent Renewable Share,(%),7.9
+2020,Petroleum,('000 boe),15806
+2020,Hydropower,('000 boe),84
+2020,Wind,('000 boe),174
+2020,Coal,('000 boe),457
+2020,Bagasse,('000 boe),266
+2020,Natural Gas,('000 boe),1537
+2020,Solar,('000 boe),77
+2020,Total Alternative Energy,('000 boe),2595
+2020,Total,('000 boe),18400
+2020,Per cent Renewable Share,(%),14.1
+2021,Petroleum,('000 boe),14677
+2021,Hydropower,('000 boe),86
+2021,Wind,('000 boe),163
+2021,Coal,('000 boe),483
+2021,Bagasse,('000 boe),251
+2021,Natural Gas,('000 boe),1576
+2021,Solar,('000 boe),82
+2021,Total Alternative Energy,('000 boe),2641
+2021,Total,('000 boe),17318
+2021,Per cent Renewable Share,(%),15.3
