@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Financial Soundness Indicators-Deposit-taking Institution",
+            "name": "Financial soundness indicators-deposit-taking institution",
             "type": "string",
             "constraints": {
               "enum": [
@@ -58,7 +58,7 @@
                 ""
               ]
             },
-            "title": "Financial Soundness Indicators-Deposit-taking Institution"
+            "title": "Financial soundness indicators-deposit-taking institution"
           },
           {
             "name": "Value",

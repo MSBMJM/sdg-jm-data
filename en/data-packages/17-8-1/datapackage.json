@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Geographical Region",
+            "name": "Geographical region",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,10 +25,11 @@
                 "Female",
                 "Urban",
                 "Rural",
+                " ",
                 ""
               ]
             },
-            "title": "Geographical Region"
+            "title": "Geographical region"
           },
           {
             "name": "Sex",

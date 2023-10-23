@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Financial Institution",
+            "name": "Financial institution",
             "type": "string",
             "constraints": {
               "enum": [

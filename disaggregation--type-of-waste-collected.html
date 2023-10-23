@@ -51,15 +51,41 @@
                 .table-striped tbody tr:nth-of-type(2n+1) {
                     background-color: #f3f2f1;
                 }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
             </style>
         </head>
         <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container">
                     <a class="navbar-brand" href="index.html">SDG data build documentation</a>
                 </div>
             </nav>
-            <main role="main">
+            <main id="main-content" role="main">
                 <div class="container">
                     <h1 style="margin:20px 0">Disaggregation: Type of Waste Collected</h1>
                     <div>
@@ -143,7 +169,7 @@
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--other.html">Other</a></td>
+      <td><a href="disaggregation-value--other_.html">Other</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
@@ -162,7 +188,7 @@
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--beverage-bottles-glass.html\">Beverage bottles (glass)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--beverage-bottles-plastic.html\">Beverage bottles (plastic)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--bottle-caps-plastic.html\">Bottle caps (plastic)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cup-plate-plastic.html\">Cup plate (plastic)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cups-plates-foam.html\">Cups plates (foam)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--foam-pieces-tiny-trash.html\">Foam pieces (tiny trash)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--food-wrappers-candy-chips-etc.html\">Food wrappers (candy chips etc.)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--food-wrappers-candy-chips.html\">Food wrappers (candy chips)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--forks-knives-and-spoons.html\">Forks knives and spoons<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--other-plastic-bags.html\">Other plastic bags<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--other.html\">Other<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--plastic-pieces-tiny-trash.html\">Plastic pieces (tiny trash)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--take-outaway-containers-foam.html\">Take out\/away containers (foam)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1}];
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--beverage-bottles-glass.html\">Beverage bottles (glass)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--beverage-bottles-plastic.html\">Beverage bottles (plastic)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--bottle-caps-plastic.html\">Bottle caps (plastic)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cup-plate-plastic.html\">Cup plate (plastic)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cups-plates-foam.html\">Cups plates (foam)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--foam-pieces-tiny-trash.html\">Foam pieces (tiny trash)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--food-wrappers-candy-chips-etc.html\">Food wrappers (candy chips etc.)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--food-wrappers-candy-chips.html\">Food wrappers (candy chips)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--forks-knives-and-spoons.html\">Forks knives and spoons<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--other-plastic-bags.html\">Other plastic bags<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--other_.html\">Other<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--plastic-pieces-tiny-trash.html\">Plastic pieces (tiny trash)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--take-outaway-containers-foam.html\">Take out\/away containers (foam)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1}];
             </script>
             
         </div>

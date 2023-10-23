@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Type of Mineral",
+            "name": "Type of mineral",
             "type": "string",
             "constraints": {
               "enum": [
@@ -58,6 +58,7 @@
                 "1411.30",
                 "1097.20",
                 "1660.90",
+                "('000 Tonnes)",
                 ""
               ]
             }

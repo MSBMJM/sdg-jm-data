@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Type of Specie",
+            "name": "Type of specie",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,17 +25,27 @@
                 "Conifers",
                 "Cycads",
                 "Cacti",
+                "Animals",
+                "Plants",
                 ""
               ]
             }
           },
           {
-            "name": "status",
+            "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
                 "endemic",
                 "Threatened",
+                "Extinct",
+                "Critical Endangered",
+                "Endangered",
+                "Vulnerable",
+                "Near Threatened",
+                "Data Deficient",
+                "Least Concern",
+                "Total",
                 ""
               ]
             }

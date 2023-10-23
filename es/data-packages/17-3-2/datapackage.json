@@ -16,7 +16,7 @@
             "title": "Año"
           },
           {
-            "name": "Indicator",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,10 +26,10 @@
                 ""
               ]
             },
-            "title": "Indicator"
+            "title": "Category"
           },
           {
-            "name": "Name",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,11 +37,11 @@
                 ""
               ]
             },
-            "title": "Name"
+            "title": "Unit"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
