@@ -1,4 +1,4 @@
-year,kapos mountain class,ipcc class,unit,value,category
+Year,Kapos mountain class,Ipcc class,Unit,Value,Category
 2000,k1,Forest,(%),0.0,
 2000,k1,Cropland,(%),0.0,
 2000,k1,Grassland,(%),0.0,
@@ -143,6 +143,22 @@ year,kapos mountain class,ipcc class,unit,value,category
 2018,k5,Settlement,(%),1.27,
 2018,k5,Other Land,(%),0.06,
 2018,k5,MGC,(%),98.68,
+2018,,,(km2 '000),4.7,Sum of green cover classes
+2018,,,(Area %),92.3,Sum of green cover classes
+2018,,,(km2 ‘000),0.4,Sum of other land cover classes
+2018,,,(area %),7.7,Sum of other land cover classes
+2019,,,(km2 '000),4.7,Sum of green cover classes
+2019,,,(Area %),92.0,Sum of green cover classes
+2019,,,(km2 ‘000),0.4,Sum of other land cover classes
+2019,,,(area %),8.0,Sum of other land cover classes
+2020,,,(km2 '000),4.7,Sum of green cover classes
+2020,,,(Area %),91.8,Sum of green cover classes
+2020,,,(km2 ‘000),0.4,Sum of other land cover classes
+2020,,,(area %),8.2,Sum of other land cover classes
+2021,,,(km2 '000),4.7,Sum of green cover classes
+2021,,,(Area %),91.8,Sum of green cover classes
+2021,,,(km2 ‘000),0.4,Sum of other land cover classes
+2021,,,(area %),8.2,Sum of other land cover classes
 2018,,,(km2 '000),4.7,Sum of green cover classes
 2018,,,(Area %),92.3,Sum of green cover classes
 2018,,,(km2 ‘000),0.4 ,Sum of other land cover classes
