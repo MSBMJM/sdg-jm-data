@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Year,Quarter,Sex,Age group,Value
+=======
+Year,Quarter,Sex,Age Group,Value
+>>>>>>> 100d749700860a6bf318739afe553c453f86ff73
 2019,January,Both Sexes,Total,8.0
 2019,January,Both Sexes,14-19,32.4
 2019,January,Both Sexes,20-24,19.7
@@ -551,6 +555,7 @@ Year,Quarter,Sex,Age group,Value
 2018,October,Female,45-54,6.0
 2018,October,Female,55-64,3.8
 2018,October,Female,65 and over,4.0
+<<<<<<< HEAD
 2022,January,Both Sexes,Total,6.2
 2022,January,Both Sexes,14-19,27.2
 2022,January,Both Sexes,20-24,15.5
@@ -695,3 +700,5 @@ Year,Quarter,Sex,Age group,Value
 2022,July,Female,45-54,6.0
 2022,July,Female,55-64,3.2
 2022,July,Female,65 and over,3.0
+=======
+>>>>>>> 100d749700860a6bf318739afe553c453f86ff73

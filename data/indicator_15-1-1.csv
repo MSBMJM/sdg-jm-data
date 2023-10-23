@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Year,Geographical region,Value,Unit
 2014,Jamaica,40.1,
 2018,Jamaica,39.8,%
@@ -8,3 +9,12 @@ Year,Geographical region,Value,Unit
 2019,Jamaica,39.7,%
 2020,Jamaica,39.7,%
 2021,Jamaica,39.7,%
+=======
+Geographical Region,Unit,Value,Year
+Jamaica,%,32.7,2014
+Jamaica,%,32.6,2015
+Jamaica,%,32.5,2016
+Jamaica,%,32.4,2017
+Jamaica,%,32.4,2018
+Jamaica,,40.1,2014
+>>>>>>> 100d749700860a6bf318739afe553c453f86ff73
