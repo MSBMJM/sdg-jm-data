@@ -143,35 +143,19 @@ Year,Kapos mountain class,Ipcc class,Unit,Category,Value
 2018,k5,Settlement,(%),,1.27
 2018,k5,Other Land,(%),,0.06
 2018,k5,MGC,(%),,98.68
-2018,,,(km2 '000),Sum of green cover classes,4.7
+2018,,,(km^2 '000),Sum of green cover classes,4.7
 2018,,,(Area %),Sum of green cover classes,92.3
-2018,,,(km2 ‘000),Sum of other land cover classes,0.4
-2018,,,(area %),Sum of other land cover classes,7.7
-2019,,,(km2 '000),Sum of green cover classes,4.7
+2018,,,(km^2 '000),Sum of other land cover classes,0.4
+2018,,,(Area %),Sum of other land cover classes,7.7
+2019,,,(km^2 '000),Sum of green cover classes,4.7
 2019,,,(Area %),Sum of green cover classes,92.0
-2019,,,(km2 ‘000),Sum of other land cover classes,0.4
-2019,,,(area %),Sum of other land cover classes,8.0
-2020,,,(km2 '000),Sum of green cover classes,4.7
+2019,,,(km^2 '000),Sum of other land cover classes,0.4
+2019,,,(Area %),Sum of other land cover classes,8.0
+2020,,,(km^2 '000),Sum of green cover classes,4.7
 2020,,,(Area %),Sum of green cover classes,91.8
-2020,,,(km2 ‘000),Sum of other land cover classes,0.4
-2020,,,(area %),Sum of other land cover classes,8.2
-2021,,,(km2 '000),Sum of green cover classes,4.7
+2020,,,(km^2 '000),Sum of other land cover classes,0.4
+2020,,,(Area %),Sum of other land cover classes,8.2
+2021,,,(km^2 '000),Sum of green cover classes,4.7
 2021,,,(Area %),Sum of green cover classes,91.8
-2021,,,(km2 ‘000),Sum of other land cover classes,0.4
-2021,,,(area %),Sum of other land cover classes,8.2
-2018,,,(km2 '000),Sum of green cover classes,4.7
-2018,,,(Area %),Sum of green cover classes,92.3
-2018,,,(km2 ‘000),Sum of other land cover classes,0.4
-2018,,,(area %),Sum of other land cover classes,7.7
-2019,,,(km2 '000),Sum of green cover classes,4.7
-2019,,,(Area %),Sum of green cover classes,92.0
-2019,,,(km2 ‘000),Sum of other land cover classes,0.4
-2019,,,(area %),Sum of other land cover classes,8.0
-2020,,,(km2 '000),Sum of green cover classes,4.7
-2020,,,(Area %),Sum of green cover classes,91.8
-2020,,,(km2 ‘000),Sum of other land cover classes,0.4
-2020,,,(area %),Sum of other land cover classes,8.2
-2021,,,(km2 '000),Sum of green cover classes,4.7
-2021,,,(Area %),Sum of green cover classes,91.8
-2021,,,(km2 ‘000),Sum of other land cover classes,0.4
-2021,,,(area %),Sum of other land cover classes,8.2
+2021,,,(km^2 '000),Sum of other land cover classes,0.4
+2021,,,(Area %),Sum of other land cover classes,8.2

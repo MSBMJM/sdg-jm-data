@@ -35,26 +35,6 @@
             "constraints": {
               "enum": [
                 "Jamaica",
-                "GKMA",
-                "OUC",
-                "Rural",
-                "Kingston & St Andrew",
-                "St Thomas",
-                "Portland",
-                "Portland. Female",
-                "St Mary",
-                "St Mary Female",
-                "St Ann",
-                "Trelawny",
-                "St James",
-                "Hanover",
-                "Westmoreland",
-                "St Elizabeth",
-                "Manchester",
-                "Clarendon",
-                "St Catherine",
-                "St Mary Total",
-                "KMA",
                 ""
               ]
             }
@@ -64,16 +44,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Children",
-                "Adult",
-                "Elderly",
-                "Pregnant and Lactating Women",
                 "Male",
                 "Female",
                 "Total",
-                "Number",
-                "per 100.000 population",
-                "Persons with disabilities",
                 ""
               ]
             }
@@ -85,27 +58,14 @@
               "enum": [
                 "%",
                 "Number",
-                "587",
-                "204",
-                "939",
-                "per 100",
                 "per 100.000 population",
-                "242",
-                "524",
-                "St Mary",
-                "St Ann",
-                "224",
-                "495",
-                "19",
-                "35",
-                "98",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }

@@ -19,9 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "GDP (Current)",
                 "Remittance as a  proportion of GDP",
                 "Remittance Inflows",
+                "GDP (Current)",
+                "Remittance Inflows as a proportion of GDP",
                 ""
               ]
             }
