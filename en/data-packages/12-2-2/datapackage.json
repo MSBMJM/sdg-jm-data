@@ -51,10 +51,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "('000 Tonnes)",
+                "(Tonnes)",
                 "('000 Mwh)",
                 "(%)",
                 "('000 MWh)",
+                "('000 Tonnes)",
                 ""
               ]
             },
